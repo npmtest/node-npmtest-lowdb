@@ -1,7 +1,7 @@
 # test coverage for  [lowdb (v0.16.2)](https://github.com/typicode/lowdb)  [![npm package](https://img.shields.io/npm/v/npmtest-lowdb.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lowdb) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lowdb.svg)](https://travis-ci.org/npmtest/node-npmtest-lowdb)
 #### JSON database for Node and the browser powered by lodash API
 
-[![NPM](https://nodei.co/npm/lowdb.png?downloads=true)](https://www.npmjs.com/package/lowdb)
+[![NPM](https://nodei.co/npm/lowdb.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/lowdb)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-lowdb/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-lowdb/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-lowdb/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-lowdb/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-lowdb/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-lowdb/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-lowdb/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-lowdb/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-lowdb/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-lowdb/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-lowdb%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-lowdb/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-lowdb/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-lowdb/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-lowdb/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-lowdb%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-lowdb/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-lowdb/build/test-report.html](https://npmtest.github.io/node-npmtest-lowdb/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-lowdb/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-lowdb/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-lowdb/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-lowdb/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-lowdb/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-lowdb/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-lowdb/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Typicode",
-        "email": "typicode@gmail.com"
+        "name": "Typicode"
     },
     "browser": {
         "./src/storages/file-sync.js": "./src/storages/browser.js",
@@ -92,13 +97,11 @@
     "main": "./lib/main.js",
     "maintainers": [
         {
-            "name": "typicode",
-            "email": "typicode@gmail.com"
+            "name": "typicode"
         }
     ],
     "name": "lowdb",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/typicode/lowdb.git"
