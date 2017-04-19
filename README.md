@@ -1,4 +1,7 @@
-# test coverage for  [lowdb (v0.16.2)](https://github.com/typicode/lowdb)  [![npm package](https://img.shields.io/npm/v/npmtest-lowdb.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lowdb) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lowdb.svg)](https://travis-ci.org/npmtest/node-npmtest-lowdb)
+# npmtest-lowdb
+
+#### basic test coverage for  [lowdb (v0.16.2)](https://github.com/typicode/lowdb)  [![npm package](https://img.shields.io/npm/v/npmtest-lowdb.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lowdb) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lowdb.svg)](https://travis-ci.org/npmtest/node-npmtest-lowdb)
+
 #### JSON database for Node and the browser powered by lodash API
 
 [![NPM](https://nodei.co/npm/lowdb.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/lowdb)
